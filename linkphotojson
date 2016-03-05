@@ -1,0 +1,70 @@
+{
+    'type': 'delta', 
+    'iseq': 474, 
+    'delta': {
+        'messageMetadata': {
+            'messageId': 'mid.1456708778405:ae678a58e60b37fb25', 
+            'timestamp': '1456708778773', 
+            'actorFbId': '1369860030', 
+            'threadKey': {
+                'otherUserFbId': '1369860030'
+            }, 
+            'offlineThreadingId': '6109924861649242946', 
+            'tags': ['source:chat:web']
+        }, 
+        'attachments': [{
+            'fbid': '10205634587008542', 
+            'mercury': {
+                'attach_type': 'share', 
+                'preview_width': None, 
+                'icon_type': None, 
+                'preview_class': None, 
+                'thumbnail_url': None, 
+                'url': None, 
+                'metadata': None, 
+                'name': None, 
+                'preview_url': None, 
+                'preview_height': None, 
+                'share': {
+                    'description': 'Found on Google from petfinder.com', 
+                    'title': 'Cat Grooming - Petfinder', 
+                    'share_id': '10205634587008542', 
+                    'action_links': [], 
+                    'source': 'google.com', 
+                    'uri': 'https://www.facebook.com/l.php?u=https%3A%2F%2Fwww.google.com%2Fimgres%3Fimgurl%3Dhttps%253A%252F%252Fwww.petfinder.com%252Fwp-content%252Fuploads%252F2012%252F11%252F140272627-grooming-needs-senior-cat-632x475.jpg%26imgrefurl%3Dhttps%253A%252F%252Fwww.petfinder.com%252Fcats%252Fcat-grooming%252F%26h%3D475%26w%3D632%26tbnid%3D09kmnxN8-QEeOM%253A%26docid%3D4r4_S3cX5z9M3M%26ei%3D4JnTVsGTOOvtjgSfr6PoAQ%26tbm%3Disch%26ved%3D0ahUKEwjBg4G25JvLAhXrtoMKHZ_XCB0QMwgzKAEwAQ%26biw%3D681%26bih%3D637&h=kAQHPx7Ov&s=1', 
+                    'style_list': ['share', 'fallback'], 
+                    'properties': {
+                        'width': '632', 
+                        'height': '475'
+                    }, 
+                    'media': {
+                        'image_size': {
+                            'width': 960, 
+                            'height': 960
+                        }, 
+                        'animated_image': None, 
+                        'duration': 0, 
+                        'playable': False, 
+                        'source': None, 
+                        'animated_image_size': {
+                            'width': None, 
+                            'height': None
+                        }, 
+                        'image': 'https://fbexternal-a.akamaihd.net/safe_image.php?d=AQAEPwQRLuXpTABN&w=960&h=960&url=https%3A%2F%2Fwww.petfinder.com%2Fwp-content%2Fuploads%2F2012%2F11%2F140272627-grooming-needs-senior-cat-632x475.jpg&cfs=1&upscale=1&ext=png2jpg'
+                    }, 
+                    'target': None, 
+                    'deduplication_key': '93efcd0e17c33d945586612b076bc2e1', 
+                    'subattachments': []
+                }, 
+                'rel': None, 
+                'app_attribution': None
+            }, 
+            'otherUserFbIds': ['1369860030'], 
+            'titanType': 1, 
+            'id': '10205634587008542'
+        }], 
+        'class': 'NewMessage', 
+        'irisSeqId': '474'
+    }, 
+    'ofd_ts': 1456708778825
+}
